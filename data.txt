@@ -1,0 +1,7 @@
+2, 4, 6, 9, 2, 4, 8, 4, 5, 7, 
+Dono, Kasino, Indro, Tata, Titi, 
+Nama         : Wildan
+NIM          : 22201114
+Usia         : 20
+Tinggi badan : 170.0
+Alamat       : JL. dahlia
